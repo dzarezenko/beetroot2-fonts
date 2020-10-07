@@ -1,0 +1,12 @@
+p {
+  font-family: 'Sansita Swashed', cursive;
+  color: red;
+}
+
+p#bold-paragraph {
+  font-weight: 900;
+}
+
+p#italic-paragraph {
+  font-style: italic;
+}
