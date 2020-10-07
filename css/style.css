@@ -1,5 +1,5 @@
 p {
-  font-family: 'Sansita Swashed', cursive;
+  font-family: 'Sansita Swashed', cursive, Arial, Helvetica, sans-serif;
   color: red;
 }
 
@@ -9,4 +9,15 @@ p#bold-paragraph {
 
 p#italic-paragraph {
   font-style: italic;
+}
+
+ion-icon {
+  color: red;
+  font-size: 140px;
+}
+
+span {
+  background-color: darkblue;
+  color:yellow;
+  font-size: 100px;
 }
